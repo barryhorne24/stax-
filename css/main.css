@@ -1,1 +1,26 @@
-ok
+footer {
+	background-color: purple;
+
+	}
+header {
+	background-color: red;
+	
+}
+img   {
+	width: 100% 
+	height: 50px;
+}
+.picture{border: 20px solid #021a40}
+ul {
+	background-color: blue;
+	padding: 10px 10px 10px 10px;
+}
+
+h2 {
+	background-color: yellow;
+	height: auto;
+}
+
+p {
+	background-color: blue;
+}
